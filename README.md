@@ -33,3 +33,12 @@
     <img src="https://skillicons.dev/icons?i=python,html,css,git,github,cpp,c,linux,vscode&perline=10" />
   </a>
 </div>
+<br/>
+
+<div align="center">
+  <img src="profile-summary-card-output/onedark/0-profile-details.svg" />
+  <img src="profile-summary-card-output/onedark/1-repos-per-language.svg" />
+  <img src="profile-summary-card-output/onedark/2-most-commit-language.svg" />
+  <img src="profile-summary-card-output/onedark/3-stats.svg" />
+  <img src="profile-summary-card-output/onedark/4-product-time.svg" />
+</div>
